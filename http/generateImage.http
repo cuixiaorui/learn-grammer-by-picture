@@ -1,0 +1,4 @@
+POST http://localhost:8080/generateImage HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+
+prompt=a red dog
